@@ -1,0 +1,27 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1746594642
+icon.svg::CompressedTexture2D::5566199675865523149::1746497844::1746497862::1::::<><>::
+::res://mainMenu/::1746594289
+boton_normal.tres::AtlasTexture::5015785656049498614::1746582622::0::1::::<><>::uid://d0j82h8a85gnp::::res://mainMenu/Menu/button.png
+boton_presionado.tres::AtlasTexture::5872151338914926129::1746586153::0::1::::<><>::uid://d0j82h8a85gnp::::res://mainMenu/Menu/button.png
+buttoms.gd::GDScript::-1::1746593056::0::1::::<>Control<>::
+credits.gd::GDScript::-1::1746593883::0::1::::<>Control<>::
+credits.tscn::PackedScene::2285181038890155852::1746594289::0::1::::<><>::res://mainMenu/credits.gd<>uid://kt1qv88qur0e::::res://mainMenu/Menu/credits.png<>uid://byim6hlifbw6m::::res://mainMenu/regresar_normal.tres<>uid://cbuqbkoc7cmgy::::res://mainMenu/regresar_press.tres
+Default.tres::Theme::6288958717850239872::1746563417::0::1::::<><>::
+exit_normal.tres::AtlasTexture::7353325441314055398::1746588940::0::1::::<><>::uid://d0j82h8a85gnp::::res://mainMenu/Menu/button.png
+exit_press.tres::AtlasTexture::4997992120267003793::1746589305::0::1::::<><>::uid://d0j82h8a85gnp::::res://mainMenu/Menu/button.png
+instructions.gd::GDScript::-1::1746590931::0::1::::<>Node2D<>::
+instructions.png::CompressedTexture2D::1526229162423154880::1746590339::1746590339::1::::<><>::
+instructions.tscn::PackedScene::5361189782832301433::1746593792::0::1::::<><>::uid://v0k1hv8ab6r1::::res://mainMenu/instructions.png<>res://mainMenu/instructions.gd<>uid://byim6hlifbw6m::::res://mainMenu/regresar_normal.tres<>uid://cbuqbkoc7cmgy::::res://mainMenu/regresar_press.tres
+main_menu.tscn::PackedScene::788562432484433324::1746593905::0::1::::<><>::res://mainMenu/buttoms.gd<>uid://brd8o6xqs7ysd::::res://mainMenu/Menu/PantallaInicio (1).png<>uid://cdpxi0a00j4ak::::res://mainMenu/boton_normal.tres<>uid://cpwrqewpvsnjl::::res://mainMenu/boton_presionado.tres<>uid://dc1agwhf1lnry::::res://mainMenu/exit_normal.tres<>uid://cdhcg2g85o4qn::::res://mainMenu/exit_press.tres
+regresar_normal.tres::AtlasTexture::4088252301589136282::1746590687::0::1::::<><>::uid://d0j82h8a85gnp::::res://mainMenu/Menu/button.png
+regresar_press.tres::AtlasTexture::4885291570778087908::1746590687::0::1::::<><>::uid://d0j82h8a85gnp::::res://mainMenu/Menu/button.png
+::res://mainMenu/Menu/::1746591682
+2.png::CompressedTexture2D::2298351127935840504::1746499552::1746499556::1::::<><>::
+3.png::CompressedTexture2D::1681292917483835341::1746499552::1746499556::1::::<><>::
+4.png::CompressedTexture2D::3363900587185811710::1746499552::1746501140::1::::<><>::
+button.png::CompressedTexture2D::8934614837700658593::1741800733::1746501014::1::::<><>::
+credits.png::CompressedTexture2D::742719983712321690::1746591524::1746591682::1::::<><>::
+Extras.png::CompressedTexture2D::6368354378840195171::1741804809::1746501014::1::::<><>::
+instructions.png::CompressedTexture2D::4233935643053381279::1746589961::1746589993::1::::<><>::
+PantallaInicio (1).png::CompressedTexture2D::3587854485184455719::1746562496::1746562532::1::::<><>::
